@@ -23,5 +23,3 @@ HTMLAcademy courses: [Graver27 on HTMLAcademy](https://htmlacademy.ru/profile/id
 
 #### English level
 * B1
-
-
