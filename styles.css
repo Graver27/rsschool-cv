@@ -36,4 +36,5 @@
 img {
     width: 25%;
     border: 5px solid darkviolet;
+    border-radius: 20%;
 }
