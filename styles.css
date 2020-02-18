@@ -2,6 +2,34 @@
     max-width: 1024px;
     margin: 0 auto;
 }
-.discription {
+
+.description {
     max-width: 35%;
+    font-style: italic ;
 }
+
+.section {
+    margin-bottom: 20px;
+
+}
+
+.heading {
+
+    color: darkblue;
+}
+
+.contacts-item{
+
+    color: darkred;
+}
+
+.skill-item {
+
+    font-style: normal;
+}
+
+.photo {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
